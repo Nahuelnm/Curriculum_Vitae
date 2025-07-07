@@ -163,7 +163,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 ##  Enfoque Actual
 
 ### 📚 **Tecnologías en uso diario:**
--  **Node.js & Express** - Desarrollo backend robusto
+-  **Node.js & Express** - Desarrollo backend
 -  **Vue.js & TypeScript** - Interfaces modernas y escalables
 -  **Go (Golang)** - Servicios de alto rendimiento y microservicios
 -  **Docker & Git** - DevOps y control de versiones
