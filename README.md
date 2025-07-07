@@ -173,7 +173,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 - 💼 **LinkedIn:** [nahuelnmedina27890](https://www.linkedin.com/in/nahuelnmedina27890) - *Contacto preferido*
 
 **🤝 Disponible para:**
-- 💼 Posiciones de **Desarrollador Fullstack** y **Especialista IT**
+- 💼 Posiciones de **Desarrollador Fullstack** y **Desarrollador Backend**
 - 🚀 Proyectos de **integración de APIs** y **desarrollo web**
 - 🎓 Colaboración en equipos ágiles
 - 📚 Intercambio técnico y networking profesional
