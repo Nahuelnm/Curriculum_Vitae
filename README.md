@@ -11,7 +11,7 @@
 Desarrollador Fullstack con experiencia en el sector desde **2019**. Me gusta capacitarme y explorar nuevas tecnologías desarrollando software, lo que me ha permitido aprender de forma práctica y fortalecer mis habilidades.
 
 ```javascript
-const nahuel = {
+Let nahuel = {
   name: "Nahuel Nicolás Medina",
   role: "Fullstack Developer",
   experience: "5+ años",
