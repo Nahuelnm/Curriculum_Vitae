@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Resumen Profesional
+##  Resumen Profesional
 
 > Desarrollador Fullstack con experiencia en el sector desde **2019**. Me gusta capacitarme y explorar nuevas tecnologías desarrollando software, lo que me ha permitido aprender de forma práctica y fortalecer mis habilidades.
 
@@ -21,9 +21,19 @@ const nahuel = {
 };
 ```
 
-**🎯 Uno de mis principales logros:** Interactuar con un equipo externo de una importante financiera para definir requerimientos e integrar medios de pago utilizando la **API de MercadoPago**, incluyendo **POSNET** y **códigos QR** con trama.
+** Uno de mis principales logros:** Interactuar con un equipo externo de una importante financiera para definir requerimientos e integrar medios de pago utilizando la **API de MercadoPago**, incluyendo **POSNET** y **códigos QR** con trama.
 
 Valoro el aprendizaje constante y disfruto participar en equipos donde puedo colaborar y seguir creciendo como profesional. Mi objetivo siempre es aportar **soluciones prácticas y funcionales** en los proyectos en los que me involucro.
+
+---
+
+## 👤 Acerca de mí
+
+### **Información Personal**
+-  **Fecha de nacimiento:** 27 de agosto de 1990
+-  **Estado civil:** Soltero
+-  **Género:** Masculino
+-  **Ubicación:** Argentina 🇦🇷
 
 ---
 
@@ -82,11 +92,11 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 ### 🏢 **EXO S.A.** | *Desarrollador Fullstack Senior*
 **📅 Nov 2019 – Presente (5+ años)**
 
-**🚀 Proyectos destacados:**
-- 🏦 **Terminal de Pago Empresarial** - Integración completa con API MercadoPago (POSNET + QR)
+** Proyectos destacados:**
+-  **Terminal de Pago Empresarial** - Integración completa con API MercadoPago (POSNET + QR)
 -  **Smart Parking System** - Sistema parking con IoT y pagos automatizados
-- 🏥 **Sistema Monitoreo Hospitalario COVID-19** - Monitoreo crítico en tiempo real 24/7
-- 📺 **Cartelería Digital** - Sistema de comunicación masiva ciudadana
+-  **Sistema Monitoreo Hospitalario COVID-19** - Monitoreo crítico en tiempo real 24/7
+-  **Cartelería Digital** - Sistema de comunicación masiva ciudadana
 
 ** Stack principal:** Node.js • Express • Vue.js • Go • PostgreSQL • MongoDB • Docker • Azure
 
@@ -100,68 +110,68 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ---
 
-## 🏆 Logros y Fortalezas Destacadas
+##  Logros y Fortalezas Destacadas
 
-### 💪 **Fortalezas Técnicas**
+###  **Fortalezas Técnicas**
 - ✅ **Sistemas críticos en producción** durante pandemia COVID-19
 - ✅ **Arquitectura microservicios** escalable con Go + Node.js en producción
-- ✅ **Integración APIs** (MercadoPago)
+- ✅ **Integración APIs** integracion mediante access_token como discord, MercadoPago y zitadel.
 - ✅ **Performance optimization** en aplicaciones de alto tráfico (1000+ usuarios)
 - ✅ **Deployment automatizado** con Docker en Linux enterprise
 - ✅ **Code review expertise** y quality assurance en proyectos críticos
 
-### 🤝 **Competencias de Liderazgo**
-- 🎯 **Arquitectura de Soluciones** - Diseño integral de sistemas complejos
-- 👥 **Colaboración en Equipo** - Mentoría e intercambio de conocimientos con desarrolladores trainee y junior
-- 🔍 **Resolución de Problemas** - Depuración de sistemas críticos y solución de problemas avanzada
-- 📚 **Documentación Técnica** - APIs, arquitectura y Buenas prácticas
-- 🚀 **Impulso a la Innovación** - Implementación de nuevas tecnologías y patrones
+###  **Competencias de Liderazgo**
+-  **Arquitectura de Soluciones** - Diseño integral de sistemas complejos
+-  **Colaboración en Equipo** - Mentoría e intercambio de conocimientos con desarrolladores trainee y junior
+-  **Resolución de Problemas** - Depuración de sistemas críticos y solución de problemas avanzada
+-  **Documentación Técnica** - APIs, arquitectura y Buenas prácticas
+-  **Impulso a la Innovación** - Implementación de nuevas tecnologías y patrones
 
 ---
 
 ## 🌐 Habilidades Técnicas
 
 ### **Arquitectura de Software**
-- 🏗️ **Diseño de microservicios** - Arquitecturas distribuidas y escalables
-- 🔄 **API Gateway patterns** - Gestión centralizada de servicios
-- 🗄️ **Bases de datos** - PostgreSQL y MongoDB en sistemas complejos
-- ⚡ **Optimización de rendimiento** - Sistemas de alto tráfico y baja latencia
-- 🔧 **Deployment patterns** - CI/CD y estrategias de despliegue
+-  **Diseño de microservicios** - Arquitecturas distribuidas y escalables
+-  **API Gateway patterns** - Gestión centralizada de servicios
+-  **Bases de datos** - PostgreSQL y MongoDB en sistemas complejos
+-  **Optimización de rendimiento** - Sistemas de alto tráfico y baja latencia
+-  **Deployment patterns** - CI/CD y estrategias de despliegue
 
 ### **Integración y Comunicación**
-- 🔄 **APIs REST** con documentación y mejores prácticas
+-  **APIs REST** con documentación y buenas prácticas
 -  **Swagger/OpenAPI** - Documentación interactiva y especificación de APIs
-- 🚀 **GraphQL** para consultas optimizadas y obtención flexible de datos  
-- 📡 **WebSocket** para comunicación en tiempo real y notificaciones instantáneas
-- 📡 **Colas de mensajes** ([NATS](https://docs.nats.io/), MQTT) para comunicación asíncrona
-- 🔐 **OAuth 2.0 & [Zitadel](https://zitadel.com/docs)** para autenticación y autorización
-- 🏗️ **Integración de APIs** con sistemas externos y terceros
-- 🔑 **Gestión de claves API** y autenticación segura
+-  **GraphQL** para consultas optimizadas y obtención flexible de datos  
+-  **WebSocket** para comunicación en tiempo real y notificaciones instantáneas
+-  **Colas de mensajes** ([NATS](https://docs.nats.io/), MQTT) para comunicación asíncrona
+-  **OAuth 2.0 & [Zitadel](https://zitadel.com/docs)** para autenticación y autorización
+-  **Integración de APIs** con sistemas externos y terceros
+-  **Gestión de claves API** y autenticación segura
 
 ---
 
-## 🎮 Intereses Profesionales
+##  Intereses Profesionales
 
-- 🌱 **Aprendizaje continuo:** Me interesa seguir aprendiendo y aplicando nuevas tecnologías en proyectos reales
-- 🔍 **Exploración tecnológica:** Descubrir y evaluar tecnologías emergentes para aplicar en soluciones innovadoras
-- 🏗️ **Arquitectura de sistemas:** Diseñar sistemas robustos y escalables que resuelvan problemas complejos
-- 👥 **Trabajo colaborativo:** Trabajar en equipo, compartir conocimientos y contribuir al crecimiento conjunto
-- 🚀 **Liderazgo técnico:** Liderar proyectos y equipos, guiando usando buenas prácticas y decisiones arquitectónicas.
+-  **Aprendizaje continuo:** Me interesa seguir aprendiendo y aplicando nuevas tecnologías en proyectos reales
+-  **Exploración tecnológica:** Descubrir y evaluar tecnologías emergentes para aplicar en soluciones innovadoras
+-  **Arquitectura de sistemas:** Diseñar sistemas robustos y escalables que resuelvan problemas complejos
+-  **Trabajo colaborativo:** Trabajar en equipo, compartir conocimientos y contribuir al crecimiento conjunto
+-  **Liderazgo técnico:** Liderar proyectos y equipos, guiando usando buenas prácticas y decisiones arquitectónicas.
 
 ---
 
-## 🌱 Enfoque Actual
+##  Enfoque Actual
 
 ### 📚 **Tecnologías en uso diario:**
-- 🎯 **Node.js & Express** - Desarrollo backend robusto
-- 🏗️ **Vue.js & TypeScript** - Interfaces modernas y escalables
-- ⚡ **Go (Golang)** - Servicios de alto rendimiento y microservicios
-- 🔧 **Docker & Git** - DevOps y control de versiones
-- 📖 **PostgreSQL & MongoDB** - Gestión de datos eficiente
-- ☁️ **Azure IoT Hub & Blob Storage** - Servicios en la nube especializados
-- 👥 **[Zitadel](https://zitadel.com/docs) OAuth** - Autenticación y autorización segura
-- 📡 **[NATS](https://docs.nats.io/)** - Colas de mensajes y comunicación asíncrona
-- 🤖 **GitHub Copilot & ChatGPT** - Herramientas de IA para optimización de desarrollo
+-  **Node.js & Express** - Desarrollo backend robusto
+-  **Vue.js & TypeScript** - Interfaces modernas y escalables
+-  **Go (Golang)** - Servicios de alto rendimiento y microservicios
+-  **Docker & Git** - DevOps y control de versiones
+-  **PostgreSQL & MongoDB** - Gestión de datos eficiente
+-  **Azure IoT Hub & Blob Storage** - Servicios en la nube especializados
+-  **[Zitadel](https://zitadel.com/docs) OAuth** - Autenticación y autorización segura
+-  **[NATS](https://docs.nats.io/)** - Colas de mensajes y comunicación asíncrona
+-  **GitHub Copilot & ChatGPT** - Herramientas de IA para optimización de desarrollo
 
 ---
 
@@ -171,9 +181,11 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ### 💬 **Contacto:**
 - 💼 **LinkedIn:** [nahuelnmedina27890](https://www.linkedin.com/in/nahuelnmedina27890) - *Contacto preferido*
+- 📧 **Email:** Nahuel.n2o@gmail.com
+- 📱 **Teléfono:** +541123974365
 
 **🤝 Disponible para:**
-- 💼 Posiciones de **Desarrollador Fullstack** y **Especialista IT**
+- 💼 Posiciones de **Desarrollador Fullstack** y **Desarrollador Backend**
 - 🚀 Proyectos de **integración de APIs** y **desarrollo web**
 - 🎓 Colaboración en equipos ágiles
 - 📚 Intercambio técnico y networking profesional
