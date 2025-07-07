@@ -181,7 +181,8 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ### 💬 **Contacto:**
 - 💼 **LinkedIn:** [nahuelnmedina27890](https://www.linkedin.com/in/nahuelnmedina27890) - *Contacto preferido*
-
+- 📧 **Email:** Nahuel.n2o@gmail.com
+- 📱 **Teléfono:** +541123974365
 
 **🤝 Disponible para:**
 - 💼 Posiciones de **Desarrollador Fullstack** y **Desarrollador Backend**
