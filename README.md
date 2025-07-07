@@ -156,7 +156,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 -  **Exploración tecnológica:** Descubrir y evaluar tecnologías emergentes para aplicar en soluciones innovadoras
 -  **Arquitectura de sistemas:** Diseñar sistemas robustos y escalables que resuelvan problemas complejos
 -  **Trabajo colaborativo:** Trabajar en equipo, compartir conocimientos y contribuir al crecimiento conjunto
--  **Liderazgo técnico:** Liderar proyectos y equipos, guiando usando buenas prácticas y decisiones arquitectónicas.
+-  **Liderazgo técnico:** Liderar proyectos y equipos, usando buenas prácticas y decisiones arquitectónicas.
 
 ---
 
