@@ -93,7 +93,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 **📅 Nov 2019 – Presente (5+ años)**
 
 **Proyectos destacados:**
--  **Terminal de Pago Empresarial** - Integración completa con API MercadoPago (POSNET + QR)
+-  **Terminal de Pago** - Integración completa con API MercadoPago (POSNET + QR)
 -  **Smart Parking System** - Sistema parking con IoT y pagos automatizados
 -  **Sistema Monitoreo Hospitalario COVID-19** - Monitoreo crítico en tiempo real 24/7
 -  **Cartelería Digital** - Sistema de comunicación masiva ciudadana
