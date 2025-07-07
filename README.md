@@ -2,8 +2,7 @@
 
 ## 🚀 Desarrollador Fullstack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuelnmedina27890)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nahuelnmedina)
+
 
 ---
 
@@ -83,86 +82,13 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 ### 🏢 **EXO S.A.** | *Desarrollador Fullstack Senior*
 **📅 Nov 2019 – Presente (5+ años)**
 
-####  Proyectos Destacados
+**🚀 Proyectos destacados:**
+- 🏦 **Terminal de Pago Empresarial** - Integración completa con API MercadoPago (POSNET + QR)
+-  **Smart Parking System** - Sistema parking con IoT y pagos automatizados
+- 🏥 **Sistema Monitoreo Hospitalario COVID-19** - Monitoreo crítico en tiempo real 24/7
+- 📺 **Cartelería Digital** - Sistema de comunicación masiva ciudadana
 
-<details>
-<summary><strong>🏦 Terminal de Pago Empresarial</strong></summary>
-
-**Stack:** Node.js • Express • Vue.js • PostgreSQL • Docker • Linux
-
-**🎯 Características principales:**
-- 💳 Integración completa API MercadoPago (POSNET + QR)
-- 🔑 Gestión segura de claves API y autenticación
-- 🐳 Despliegue automatizado con Docker y CI/CD
-- 📊 Monitoreo en tiempo real y logging empresarial
-- 🔐 Cumplimiento de seguridad para transacciones financieras
-
-**📈 Logros e impacto:**
-- ✅ Arquitectura que soporta múltiples transacciones simultáneas
-- ✅ Revisión de código de integraciones críticas de pago
-- ✅ Pipeline de despliegue sin tiempo de inactividad implementado
-- ✅ Integración exitosa con equipo externo de financiera
-</details>
-
-<details>
-<summary><strong>🚗 Smart Parking System (Universidad)</strong></summary>
-
-**Stack:** Node.js • PostgreSQL • Vue.js • MercadoPago API • Azure IoT Hub
-
-**🎯 Características principales:**
-- 👥 Gestión completa de usuarios universitarios
-- 💰 Sistema de pagos automáticos integrado
-- 🚪 Control automatizado de barreras IoT
-- 📱 Interfaz responsive y amigable para móviles
-- 📊 Análisis y reportes de uso de espacios
-- ☁️ Integración con Azure IoT Hub para gestión de dispositivos
-
-**📈 Logros e impacto:**
-- ✅ Sistema escalable para múltiples usuarios concurrentes
-- ✅ Optimización de consultas SQL complejas
-- ✅ Reducción significativa del tiempo de gestión manual
-- ✅ Optimización de espacios universitarios con datos en tiempo real
-</details>
-
-<details>
-<summary><strong>🏥 Sistema Monitoreo Hospitalario COVID-19</strong></summary>
-
-**Stack:** Node.js • PostgreSQL • Docker • Linux • WebSocket • Real-time APIs
-
-**🎯 Características principales:**
-- 🏥 Monitoreo crítico en tiempo real 24/7
-- 📊 Dashboard de métricas vitales y alertas
-- ⚡ Comunicación instantánea con WebSocket para actualizaciones críticas
-- 🔔 Sistema automatizado de notificaciones críticas
-- 🔐 Cumplimiento estricto normativas sanitarias
-- 📋 Audit trails y trazabilidad completa
-
-**📈 Logros e impacto:**
-- ✅ Deployed exitosamente en múltiples hospitales Formosa
-- ✅ Monitoring sin interrupciones durante toda la pandemia
-- ✅ Zero fallos críticos en sistema de salud esencial
-- ✅ Contribución directa a respuesta sanitaria COVID-19
-</details>
-
-<details>
-<summary><strong>📺 Cartelería Digital Gubernamental</strong></summary>
-
-**Stack:** Node.js • Vue.js • PostgreSQL • Azure • Docker • Azure Blob Storage
-
-**🎯 Características principales:**
-- 🏛️ Sistema de comunicación masiva ciudadana
-- 🔗 Integración compleja con sistemas gubernamentales existentes
-- 🛡️ Cumplimiento de seguridad y estándares gubernamentales
-- 📋 Trazabilidad completa y logging para transparencia
-- 🌐 Distribución multimedia a gran escala
-- ☁️ Almacenamiento de contenido con Azure Blob Storage
-
-**📈 Logros e impacto:**
-- ✅ Cumplimiento total de estándares gubernamentales
-- ✅ Integración exitosa con múltiples sistemas existentes
-- ✅ Desplegado en infraestructura Azure empresarial
-- ✅ Comunicación efectiva con miles de ciudadanos
-</details>
+** Stack principal:** Node.js • Express • Vue.js • Go • PostgreSQL • MongoDB • Docker • Azure
 
 ---
 
@@ -179,7 +105,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 ### 💪 **Fortalezas Técnicas**
 - ✅ **Sistemas críticos en producción** durante pandemia COVID-19
 - ✅ **Arquitectura microservicios** escalable con Go + Node.js en producción
-- ✅ **Integración APIs complejas** (MercadoPago, sistemas legacy, enterprise)
+- ✅ **Integración APIs** (MercadoPago)
 - ✅ **Performance optimization** en aplicaciones de alto tráfico (1000+ usuarios)
 - ✅ **Deployment automatizado** con Docker en Linux enterprise
 - ✅ **Code review expertise** y quality assurance en proyectos críticos
@@ -188,7 +114,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 - 🎯 **Arquitectura de Soluciones** - Diseño integral de sistemas complejos
 - 👥 **Colaboración en Equipo** - Mentoría e intercambio de conocimientos con desarrolladores trainee y junior
 - 🔍 **Resolución de Problemas** - Depuración de sistemas críticos y solución de problemas avanzada
-- 📚 **Documentación Técnica** - APIs, arquitectura y mejores prácticas
+- 📚 **Documentación Técnica** - APIs, arquitectura y Buenas prácticas
 - 🚀 **Impulso a la Innovación** - Implementación de nuevas tecnologías y patrones
 
 ---
@@ -198,12 +124,13 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 ### **Arquitectura de Software**
 - 🏗️ **Diseño de microservicios** - Arquitecturas distribuidas y escalables
 - 🔄 **API Gateway patterns** - Gestión centralizada de servicios
-- 🗄️ **Bases de datos híbridas** - PostgreSQL y MongoDB en sistemas complejos
+- 🗄️ **Bases de datos** - PostgreSQL y MongoDB en sistemas complejos
 - ⚡ **Optimización de rendimiento** - Sistemas de alto tráfico y baja latencia
 - 🔧 **Deployment patterns** - CI/CD y estrategias de despliegue
 
 ### **Integración y Comunicación**
 - 🔄 **APIs REST** con documentación y mejores prácticas
+-  **Swagger/OpenAPI** - Documentación interactiva y especificación de APIs
 - 🚀 **GraphQL** para consultas optimizadas y obtención flexible de datos  
 - 📡 **WebSocket** para comunicación en tiempo real y notificaciones instantáneas
 - 📡 **Colas de mensajes** ([NATS](https://docs.nats.io/), MQTT) para comunicación asíncrona
@@ -219,8 +146,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 - 🔍 **Exploración tecnológica:** Descubrir y evaluar tecnologías emergentes para aplicar en soluciones innovadoras
 - 🏗️ **Arquitectura de sistemas:** Diseñar sistemas robustos y escalables que resuelvan problemas complejos
 - 👥 **Trabajo colaborativo:** Trabajar en equipo, compartir conocimientos y contribuir al crecimiento conjunto
-- 🚀 **Liderazgo técnico:** Liderar proyectos y equipos, guiando las mejores prácticas y decisiones arquitectónicas
-- ☕ **Filosofía:** *"El mejor código es el que resuelve problemas reales"*
+- 🚀 **Liderazgo técnico:** Liderar proyectos y equipos, guiando las mejores prácticas y decisiones arquitectónicas.
 
 ---
 
@@ -243,13 +169,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 <div align="center">
 
-### 💬 **¿Interesado en colaborar o conocer más sobre mi trabajo?**
-
-> Especializado en **arquitecturas escalables**, **integración de APIs enterprise** y **desarrollo full-stack**. Siempre abierto a nuevos desafíos técnicos, proyectos innovadores y oportunidades de crecimiento profesional.
-
-</div>
-
-**🔗 Contacto profesional:**
+### 💬 **Contacto:**
 - 💼 **LinkedIn:** [nahuelnmedina27890](https://www.linkedin.com/in/nahuelnmedina27890) - *Contacto preferido*
 
 **🤝 Disponible para:**
