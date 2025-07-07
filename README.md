@@ -119,7 +119,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ---
 
-## 🌐 Habilidades Técnicas Avanzadas
+## 🌐 Habilidades Técnicas
 
 ### **Arquitectura de Software**
 - 🏗️ **Diseño de microservicios** - Arquitecturas distribuidas y escalables
@@ -167,7 +167,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ## 📫 Contacto & Colaboración
 
-<div align="center">
+<div align="left">
 
 ### 💬 **Contacto:**
 - 💼 **LinkedIn:** [nahuelnmedina27890](https://www.linkedin.com/in/nahuelnmedina27890) - *Contacto preferido*
