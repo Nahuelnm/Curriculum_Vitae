@@ -8,7 +8,7 @@
 
 ##  Resumen Profesional
 
-> Desarrollador Fullstack con experiencia en el sector desde **2019**. Me gusta capacitarme y explorar nuevas tecnologías desarrollando software, lo que me ha permitido aprender de forma práctica y fortalecer mis habilidades.
+Desarrollador Fullstack con experiencia en el sector desde **2019**. Me gusta capacitarme y explorar nuevas tecnologías desarrollando software, lo que me ha permitido aprender de forma práctica y fortalecer mis habilidades.
 
 ```javascript
 const nahuel = {
@@ -21,7 +21,7 @@ const nahuel = {
 };
 ```
 
-** Uno de mis principales logros:** Interactuar con un equipo externo de una importante financiera para definir requerimientos e integrar medios de pago utilizando la **API de MercadoPago**, incluyendo **POSNET** y **códigos QR** con trama.
+**Uno de mis principales logros:** Interactuar con un equipo externo de una importante financiera para definir requerimientos e integrar medios de pago utilizando la **API de MercadoPago**, incluyendo **POSNET** y **códigos QR** con trama.
 
 Valoro el aprendizaje constante y disfruto participar en equipos donde puedo colaborar y seguir creciendo como profesional. Mi objetivo siempre es aportar **soluciones prácticas y funcionales** en los proyectos en los que me involucro.
 
@@ -92,13 +92,13 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 ### 🏢 **EXO S.A.** | *Desarrollador Fullstack Senior*
 **📅 Nov 2019 – Presente (5+ años)**
 
-** Proyectos destacados:**
+**Proyectos destacados:**
 -  **Terminal de Pago Empresarial** - Integración completa con API MercadoPago (POSNET + QR)
 -  **Smart Parking System** - Sistema parking con IoT y pagos automatizados
 -  **Sistema Monitoreo Hospitalario COVID-19** - Monitoreo crítico en tiempo real 24/7
 -  **Cartelería Digital** - Sistema de comunicación masiva ciudadana
 
-** Stack principal:** Node.js • Express • Vue.js • Go • PostgreSQL • MongoDB • Docker • Azure
+**Stack principal:** Node.js • Express • Vue.js • Go • PostgreSQL • MongoDB • Docker • Azure
 
 ---
 
@@ -129,7 +129,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ---
 
-## 🌐 Habilidades Técnicas
+## 🌐 Habilidades Técnicas** Proyectos destacados:**
 
 ### **Arquitectura de Software**
 -  **Diseño de microservicios** - Arquitecturas distribuidas y escalables
