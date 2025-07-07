@@ -92,13 +92,13 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 ### 🏢 **EXO S.A.** | *Desarrollador Fullstack Senior*
 **📅 Nov 2019 – Presente (5+ años)**
 
-** Proyectos destacados:**
+**Proyectos destacados:**
 -  **Terminal de Pago Empresarial** - Integración completa con API MercadoPago (POSNET + QR)
 -  **Smart Parking System** - Sistema parking con IoT y pagos automatizados
 -  **Sistema Monitoreo Hospitalario COVID-19** - Monitoreo crítico en tiempo real 24/7
 -  **Cartelería Digital** - Sistema de comunicación masiva ciudadana
 
-** Stack principal:** Node.js • Express • Vue.js • Go • PostgreSQL • MongoDB • Docker • Azure
+**Stack principal:** Node.js • Express • Vue.js • Go • PostgreSQL • MongoDB • Docker • Azure
 
 ---
 
@@ -129,7 +129,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ---
 
-## 🌐 Habilidades Técnicas
+## 🌐 Habilidades Técnicas** Proyectos destacados:**
 
 ### **Arquitectura de Software**
 -  **Diseño de microservicios** - Arquitecturas distribuidas y escalables
