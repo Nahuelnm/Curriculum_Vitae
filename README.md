@@ -129,7 +129,7 @@ Valoro el aprendizaje constante y disfruto participar en equipos donde puedo col
 
 ---
 
-## ** 🌐 Habilidades Técnicas**
+##  🌐 Habilidades Técnicas
 
 ### **Arquitectura de Software**
 -  **Diseño de microservicios** - Arquitecturas distribuidas y escalables
