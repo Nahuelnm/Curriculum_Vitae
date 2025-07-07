@@ -1,4 +1,4 @@
-# 👋 Nahuel Nicolás Medina
+# Nahuel Nicolás Medina
 
 ## 🚀 Desarrollador Fullstack
 
