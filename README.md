@@ -8,7 +8,7 @@
 
 ##  Resumen Profesional
 
-> Desarrollador Fullstack con experiencia en el sector desde **2019**. Me gusta capacitarme y explorar nuevas tecnologías desarrollando software, lo que me ha permitido aprender de forma práctica y fortalecer mis habilidades.
+Desarrollador Fullstack con experiencia en el sector desde **2019**. Me gusta capacitarme y explorar nuevas tecnologías desarrollando software, lo que me ha permitido aprender de forma práctica y fortalecer mis habilidades.
 
 ```javascript
 const nahuel = {
@@ -21,7 +21,7 @@ const nahuel = {
 };
 ```
 
-** Uno de mis principales logros:** Interactuar con un equipo externo de una importante financiera para definir requerimientos e integrar medios de pago utilizando la **API de MercadoPago**, incluyendo **POSNET** y **códigos QR** con trama.
+**Uno de mis principales logros:** Interactuar con un equipo externo de una importante financiera para definir requerimientos e integrar medios de pago utilizando la **API de MercadoPago**, incluyendo **POSNET** y **códigos QR** con trama.
 
 Valoro el aprendizaje constante y disfruto participar en equipos donde puedo colaborar y seguir creciendo como profesional. Mi objetivo siempre es aportar **soluciones prácticas y funcionales** en los proyectos en los que me involucro.
 
